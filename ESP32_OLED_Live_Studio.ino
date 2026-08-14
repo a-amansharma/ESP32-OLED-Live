@@ -1099,7 +1099,6 @@ void setup() {
     WiFi.softAPIP()
   );
 }
-
 void loop() {
   server.handleClient();
 }
