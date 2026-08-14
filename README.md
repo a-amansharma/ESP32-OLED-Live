@@ -306,21 +306,7 @@ ESP32
 
 # ☕ Buy Me a Coffee
 
-If you like this project and want to support it:
-
-```html
-<a href="assets/buy-me-a-coffee.png" target="_blank">
-  <img src="assets/buy-me-a-coffee.png" alt="Buy Me a Coffee" width="180">
-</a>
-```
-
-Place your QR/support image here:
-
-```text
-assets/buy-me-a-coffee.png
-```
-
-Clicking the image will open the QR image in a new browser tab.
+[![☕ Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20the%20Project-yellow?style=for-the-badge)](https://a-amansharma.github.io/Portfolio/images/my-qr.webp)
 
 ---
 
